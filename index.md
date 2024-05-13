@@ -13,8 +13,8 @@ layout: default
 
 I am a PhD student with the [VUSec](https://vusec.net/) group at [VU Amsterdam](https://vu.nl/en). My research interests span systems security, operating systems, program analysis, and microarchitectural attacks.
 
-Previously, I did my MS at UC San Diego, where I worked with the [security group](https://cryptosec.ucsd.edu/).
-Before that, I did my BS at the University of Arizona, where I worked on the [Lynx Project](https://www2.cs.arizona.edu/projects/lynx-project/index.html).
+Previously, I did my MS at [UC San Diego](https://ucsd.edu/), where I worked with the [security group](https://cryptosec.ucsd.edu/).
+Before that, I did my BS at the [University of Arizona](https://www.arizona.edu/), where I worked on the [Lynx Project](https://www2.cs.arizona.edu/projects/lynx-project/index.html).
 
 ## Publications
 
@@ -31,11 +31,9 @@ Before that, I did my BS at the University of Arizona, where I worked on the [Ly
 
 ## Teaching
 
-I’ve helped teach a few classes, including:
-
-* [Network Security](https://studiegids.vu.nl/EN/courses/2021-2022/XM_0100) (VU Amsterdam): P2 2021, P2 2022.
-* [Computer and Network Security](https://studiegids.vu.nl/en/Master/2019-2020/parallel-and-distributed-computer-systems/X_400127) (VU Amsterdam): P1 2019, P1 2020.
-* [Introduction to Computer Security](https://cse.ucsd.edu/undergraduate/courses/course-descriptions/cse-127-introduction-computer-security) (UC San Diego, CSE 127): [Fall 2017](https://cseweb.ucsd.edu/classes/fa17/cse127-b/), [Spring 2018](https://cseweb.ucsd.edu/classes/sp18/cse127-b/).
-* [Introduction to Communications](https://ece.engineering.arizona.edu/undergrad-programs/courses/introduction-communications) (University of Arizona, ECE 340A): Fall 2014, Spring 2015.
+* [Network Security](https://studiegids.vu.nl/EN/courses/2021-2022/XM_0100) (VU Amsterdam) TA: P2 2021, P2 2022.
+* [Computer and Network Security](https://studiegids.vu.nl/en/Master/2019-2020/parallel-and-distributed-computer-systems/X_400127) (VU Amsterdam) TA: P1 2019, P1 2020.
+* [Introduction to Computer Security](https://cse.ucsd.edu/undergraduate/courses/course-descriptions/cse-127-introduction-computer-security) (UC San Diego, CSE 127) TA: [Fall 2017](https://cseweb.ucsd.edu/classes/fa17/cse127-b/), [Spring 2018](https://cseweb.ucsd.edu/classes/sp18/cse127-b/).
+* [Introduction to Communications](https://ece.engineering.arizona.edu/undergrad-programs/courses/introduction-communications) (University of Arizona, ECE 340A) TA: Fall 2014, Spring 2015.
 
 ---
