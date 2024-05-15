@@ -15,4 +15,4 @@ nav:
  - name: "About"
    link: "/"
  - name: "CV"
-   link: "/cv.pdf"
+   link: "/assets/cv.pdf"
