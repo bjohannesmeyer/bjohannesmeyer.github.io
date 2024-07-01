@@ -18,7 +18,7 @@ Before that, I did my BS at the [University of Arizona](https://www.arizona.edu/
 
 ## Publications
 
-* **Data-Only Attacks Are Easier than You Think**. B. Johannesmeyer, H. Bos, C. Giuffrida, A. Slowinska. *USENIX ;login: July 2024*. [[web](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)].
+* **Data-Only Attacks Are Easier than You Think**. B. Johannesmeyer, H. Bos, C. Giuffrida, A. Slowinska. *USENIX ;login: 2024*. [[web](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)].
 * **Practical Data-Only Attack Generation**. B. Johannesmeyer, A. Slowinska, H. Bos, C. Giuffrida. *USENIX Security 2024*. [[paper](https://download.vusec.net/papers/einstein_sec24.pdf) \| [code](https://github.com/vusec/einstein)].
 * **Kasper: Scanning for Generalized Transient Execution Gadgets in the Linux Kernel**. B. Johannesmeyer, J. Koschel, K. Razavi, H. Bos, C. Giuffrida. *NDSS 2022*. [[paper](assets/kasper_ndss22.pdf) \| [slides](assets/kasper_ndss22_slides.pdf) \| [web](https://www.vusec.net/projects/kasper/) \| [code](https://github.com/vusec/kasper) \| [video](https://www.youtube.com/watch?v=v89Zt3vxrww)].
 * **On the Effectiveness of Same-Domain Memory Deduplication**. A. Costi, B. Johannesmeyer, E. Bosman, C. Giuffrida, H. Bos. *ACM EuroSec 2022*. [[paper](assets/dedup_eurosec22.pdf) \| [slides](assets/dedup_eurosec22_slides.pdf) \| [web](https://www.vusec.net/projects/dedup-est-machina-returns) \| [code](https://github.com/vusec/dedup-est-returns)].
