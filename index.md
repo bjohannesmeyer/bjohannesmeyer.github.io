@@ -50,7 +50,7 @@ S. Cauligi, G. Soeller, F. Brown, B. Johannesmeyer, Y. Huang, R. Jhala, D. Stefa
 
 * **Dead Store Elimination (Still) Considered Harmful** [[paper](assets/sec17.pdf) \| [video](https://www.youtube.com/watch?v=litxEtE1cj8)]\
 Z. Yang, B. Johannesmeyer, A.T. Olesen, S. Lerner, K. Levchenko\
-*USENIX Security 2017*\
+*USENIX Security 2017*
 
 * **A Generic Approach to Automatic Deobfuscation of Executable Code** [[paper](assets/sp15.pdf) \| [web](https://www2.cs.arizona.edu/projects/lynx-project/) \| [code](https://www2.cs.arizona.edu/projects/lynx-project/Source/Deobfuscator.tar.gz) \| [video](https://www.youtube.com/watch?v=VWL8-2G89_c)]\
 B. Yadegari, B. Johannesmeyer, B. Whitely, S. Debray\
