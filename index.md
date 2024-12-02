@@ -30,6 +30,7 @@ B. Johannesmeyer, H. Bos, C. Giuffrida, A. Slowinska\
 * **Kasper: Scanning for Generalized Transient Execution Gadgets in the Linux Kernel** [[paper](assets/kasper_ndss22.pdf) \| [slides](assets/kasper_ndss22_slides.pdf) \| [poster](assets/kasper_ndss22_poster.pdf) \| [web](https://www.vusec.net/projects/kasper/) \| [code](https://github.com/vusec/kasper) \| [video](https://www.youtube.com/watch?v=v89Zt3vxrww)]\
 B. Johannesmeyer, J. Koschel, K. Razavi, H. Bos, C. Giuffrida\
 *NDSS 2022*\
+***🏆 DCSR Paper Award Runner-up***{: style="color: #0FAF0F; opacity: 0.80;" }\
 ***🏆 Qualcomm Innovation Fellowship Runner-Up***{: style="color: #0FAF0F; opacity: 0.80;" } for follow-up proposal
 
 * **On the Effectiveness of Same-Domain Memory Deduplication** [[paper](assets/dedup_eurosec22.pdf) \| [slides](assets/dedup_eurosec22_slides.pdf) \| [web](https://www.vusec.net/projects/dedup-est-machina-returns) \| [code](https://github.com/vusec/dedup-est-returns)]\
