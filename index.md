@@ -12,7 +12,7 @@ Hi, I'm Brian! I’m a PhD student at [VU Amsterdam](https://vu.nl/en), fascinat
 
 ### Contact
 
-* Email: [b.g.johannesmeyer@vu.nl](mailto:b.g.johannesmeyer@vu.nl)
+* Email: [bjohannesmeyer@gmail.com](mailto:bjohannesmeyer@gmail.com)
 * Social: [GitHub](https://github.com/bjohannesmeyer/), [Google Scholar](https://scholar.google.com/citations?user=hveLyDgAAAAJ), [Twitter](https://twitter.com/bjohannesmeyer)
 
 ### Research Interests
