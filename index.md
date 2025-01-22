@@ -35,11 +35,11 @@ Before that, I did my BS at the [University of Arizona](https://www.arizona.edu/
 
 Some of my research has resulted in [contributions to the Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=bjohannesmeyer%40gmail.com). Here are some highlights:
 
-* **Improve the performance of the address-to-line script by 15x** [[series](https://lore.kernel.org/lkml/20240415145538.1938745-3-bjohannesmeyer@gmail.com/T/)]
-
 * **Mitigate speculative type confusion bugs in the list implementation** \
 [[92 patches](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=%5C%28jakobkoschel%40gmail.com%5C%29%5C%7C%5C%28jkl820.git%40gmail.com%5C%29) | co-work with [Jakob Koschel](https://jakob-koschel.github.io/)] \
 *📝 LWN coverage: [02/2022](https://lwn.net/Articles/885941/), [03/2022](https://lwn.net/Articles/887097/)*
+
+* **Improve the performance of the address-to-line script by 15x** [[series](https://lore.kernel.org/lkml/20240415145538.1938745-3-bjohannesmeyer@gmail.com/T/)]
 
 ### Ongoing
 
