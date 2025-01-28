@@ -12,7 +12,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "Home"
    link: "/"
+ - name: "About"
+   link: "/about"
  - name: "CV"
    link: "/assets/cv.pdf"
