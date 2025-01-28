@@ -12,13 +12,13 @@ layout: default
   border: 2px solid #FFCA28;
   border-radius: 10px;
 ">
-  <b>Update:</b> I’ve looking for a post-PhD job!
-  If your team needs an engineer skilled in OS internals, compiler instrumentation, hardware/software interplay, and advanced systems security, please <a href="mailto:bjohannesmeyer@gmail.com">get in touch</a>!
+  <b>Update:</b> I’m looking for post-PhD opportunities!
+  If you need an engineer skilled in OS internals, compiler instrumentation, hardware/software interplay, and advanced systems security, please <a href="mailto:bjohannesmeyer@gmail.com">get in touch</a>!
 </div>
 
 ## Experience
 
-I’m a PhD student with the [VUSec](https://vusec.net/) group at [VU Amsterdam](https://vu.nl/en), where I devise techniques to track data and uncover vulnerabilities.
+I’m a PhD candidate with the [VUSec](https://vusec.net/) group at [VU Amsterdam](https://vu.nl/en), where I devise techniques to track data and uncover vulnerabilities.
 
 Previously, I did my MS at [UC San Diego](https://ucsd.edu/), where I hacked on avionics equipment and compiler internals with the [security group](https://cryptosec.ucsd.edu/).
 Before that, I did my BS at the [University of Arizona](https://www.arizona.edu/), where I poked around with code deobfuscation and anti-analysis tricks with the [Lynx Project](https://www2.cs.arizona.edu/projects/lynx-project/index.html).

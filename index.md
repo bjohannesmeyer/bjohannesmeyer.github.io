@@ -12,8 +12,8 @@ layout: default
   border: 2px solid #FFCA28;
   border-radius: 10px;
 ">
-  <b>Update:</b> I’ve looking for a post-PhD job!
-  If your team needs an engineer skilled in OS internals, compiler instrumentation, hardware/software interplay, and advanced systems security, please <a href="mailto:bjohannesmeyer@gmail.com">get in touch</a>!
+  <b>Update:</b> I’m looking for post-PhD opportunities!
+  If you need an engineer skilled in OS internals, compiler instrumentation, hardware/software interplay, and advanced systems security, please <a href="mailto:bjohannesmeyer@gmail.com">get in touch</a>!
 </div>
 
 <img class="profile-picture" src="assets/headshot.jpg">
