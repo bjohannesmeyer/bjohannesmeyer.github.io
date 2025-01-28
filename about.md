@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<div style="
+  background-color: #FFD54F;
+  font-size: 1.1em;
+  color: #333;
+  padding: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+  border: 2px solid #FFCA28;
+  border-radius: 10px;
+">
+  <b>Update:</b> I’ve looking for a post-PhD job!
+  If your team needs an engineer skilled in OS internals, compiler instrumentation, hardware/software interplay, and advanced systems security, please <a href="mailto:bjohannesmeyer@gmail.com">get in touch</a>!
+</div>
+
 ## Experience
 
 I’m a PhD student with the [VUSec](https://vusec.net/) group at [VU Amsterdam](https://vu.nl/en), where I devise techniques to track data and uncover vulnerabilities.
