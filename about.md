@@ -11,31 +11,28 @@ Before that, I did my BS at the [University of Arizona](https://www.arizona.edu/
 
 ---
 
-## Linux Kernel Contributions
+## Open-Source Contributions
 
-### Merged
+Some of my research has resulted in open-source contributions. Here are some highlights:
 
-Some of my research has resulted in [contributions to the Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=bjohannesmeyer%40gmail.com). Here are some highlights:
+* _(In progress)_ --- **Linux kernel, LLVM project**: KernelDataFlowSanitizer (KDFSAN), a generalized dynamic data flow analysis for the kernel \
+&emsp;&ensp;[[Linux port](https://github.com/vusec/kdfsan-linux) | [LLVM port](https://github.com/vusec/kdfsan-llvm-project) | contact me for an up-to-date version]
 
-* **Mitigate speculative type confusion bugs in the list implementation** \
-[[92 patches](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=%5C%28jakobkoschel%40gmail.com%5C%29%5C%7C%5C%28jkl820.git%40gmail.com%5C%29) | co-work with [Jakob Koschel](https://jakob-koschel.github.io/)] \
-*📝 LWN coverage: [02/2022](https://lwn.net/Articles/885941/), [03/2022](https://lwn.net/Articles/887097/)*
+* _(Submitted)_ --- **Linux kernel**: Mitigate a memory corruption vulnerability in the DMA pool allocator [[series](https://lore.kernel.org/lkml/20241122211144.4186080-4-bjohannesmeyer@gmail.com/)] \
+&emsp;&ensp;*📣 "Very cool finding, this is nice work!" --Greg KH [[quote](https://lore.kernel.org/linux-mm/2024111914-overuse-cider-7734@gregkh/)]\
+&emsp;&ensp;&emsp;&ensp;(High praise in the kernel world.)*
 
-* **Improve the performance of the address-to-line script by 15x** [[series](https://lore.kernel.org/lkml/20240415145538.1938745-3-bjohannesmeyer@gmail.com/T/)]
+* _(Submitted)_ --- **Linux kernel**: Fix hundreds of inconsistent DMA accesses in VMware’s VMXNET3 driver [[series](https://lore.kernel.org/lkml/20241119221353.3912257-1-bjohannesmeyer@gmail.com/)]
 
-### Ongoing
+* _May 2024_ --- **Linux kernel**: Add a fix for unaligned I/O accesses and a regression test to KernelMemorySanitizer (KMSAN) [[patch1](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=bf6ab33d8487f5e2a0998ce75286eae65bb0a6d6) \| [patch2](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=7005e7ec28855f3aa8355c39a7786d859ec92888)]
 
-I also have work that is either currently submitted or in-progress:
+* _Apr. 2024_ --- **Linux kernel**: Improve the address‑to‑line script perf. by 15x [[series](https://lore.kernel.org/lkml/20240415145538.1938745-3-bjohannesmeyer@gmail.com/T/)]
 
-* *Submitted*: **Mitigate memory corruption vuln. in the DMA pool allocator** [[series](https://lore.kernel.org/lkml/20241122211144.4186080-4-bjohannesmeyer@gmail.com/)] \
-*📣 "Very cool finding, this is nice work!" --Greg KH [[quote](https://lore.kernel.org/linux-mm/2024111914-overuse-cider-7734@gregkh/)]\
-&emsp;&ensp;(High praise in the kernel world.)*
+* _Feb. 2022_ --- **Linux kernel**: Mitigate list iterator's speculative type confusion bugs \
+&emsp;&ensp;[[92 patches](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=%5C%28jakobkoschel%40gmail.com%5C%29%5C%7C%5C%28jkl820.git%40gmail.com%5C%29) | co-work with [Jakob Koschel](https://jakob-koschel.github.io/)] \
+&emsp;&ensp;*📝 LWN coverage: [02/2022](https://lwn.net/Articles/885941/), [03/2022](https://lwn.net/Articles/887097/)*
 
-* *Submitted*: **Mitigate inconsistent DMA accesses in VMware's VMXNET3 driver** [[series](https://lore.kernel.org/lkml/20241119221353.3912257-1-bjohannesmeyer@gmail.com/)]
-
-* *Work-in-progress*: **KernelDataFlowSanitizer (KDFSAN), \
-a generalized dynamic data flow analysis for the kernel** \
-[[Linux port](https://github.com/vusec/kdfsan-linux) | [LLVM port](https://github.com/vusec/kdfsan-llvm-project) | please contact me for a more up-to-date version]
+* _Oct. 2016_ --- **OpenVPN, Kerberos, others**: Mitigate cases of the compiler optimizing out sensitive memory clear operations
 
 ---
 
@@ -44,6 +41,10 @@ a generalized dynamic data flow analysis for the kernel** \
 * **Dynamic Detection of Vulnerable DMA Race Conditions** \
 B. Johannesmeyer, R. Isemann, C. Giuffrida, H. Bos\
 *Under review*
+
+* **Information Flow‑Based Vulnerability Modeling** \
+B. Johannesmeyer\
+*PhD Thesis, Vrije Universiteit Amsterdam, 2025*
 
 * **Practical Data-Only Attack Generation** [[paper](assets/einstein_sec24.pdf) \| [slides](assets/einstein_sec24_slides.pdf) \| [poster](assets/einstein_sec24_poster.pdf) \| [code](https://github.com/vusec/einstein) \| [video](https://www.youtube.com/watch?v=i8Qja60N268)]\
 B. Johannesmeyer, A. Slowinska, H. Bos, C. Giuffrida\
