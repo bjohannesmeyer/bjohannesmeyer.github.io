@@ -2,26 +2,13 @@
 layout: default
 ---
 
-<div style="
-  background-color: #FFD54F;
-  font-size: 1.1em;
-  color: #333;
-  padding: 1em;
-  margin-bottom: 1em;
-  text-align: center;
-  border: 2px solid #FFCA28;
-  border-radius: 10px;
-">
-  <b>Update:</b> I’m looking for post-PhD opportunities!
-  If you need an engineer skilled in OS internals, compiler instrumentation, hardware/software interplay, and advanced systems security, please <a href="mailto:bjohannesmeyer@gmail.com">get in touch</a>!
-</div>
-
 ## Experience
 
-I’m a PhD candidate with the [VUSec](https://vusec.net/) group at [VU Amsterdam](https://vu.nl/en), where I devise techniques to track data and uncover vulnerabilities.
+I’m a Software Security Engineer at [Qualcomm](https://www.qualcomm.com/), where I build and maintain the security execution stack of their chipsets.
 
-Previously, I did my MS at [UC San Diego](https://ucsd.edu/), where I hacked on avionics equipment and compiler internals with the [security group](https://cryptosec.ucsd.edu/).
-Before that, I did my BS at the [University of Arizona](https://www.arizona.edu/), where I poked around with code deobfuscation and anti-analysis tricks with the [Lynx Project](https://www2.cs.arizona.edu/projects/lynx-project/index.html).
+Previously, I did my PhD with the [VUSec](https://vusec.net/) group at [VU Amsterdam](https://vu.nl/en), where I devised techniques to track data and uncover vulnerabilities.
+Before that, I did my MS at [UC San Diego](https://ucsd.edu/), where I hacked on avionics equipment and compiler internals with the [security group](https://cryptosec.ucsd.edu/).
+And before, I did my BS at the [University of Arizona](https://www.arizona.edu/), where I poked around with code deobfuscation and anti-analysis tricks with the [Lynx Project](https://www2.cs.arizona.edu/projects/lynx-project/index.html).
 
 ---
 

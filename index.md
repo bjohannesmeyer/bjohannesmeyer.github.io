@@ -2,23 +2,9 @@
 layout: default
 ---
 
-<div style="
-  background-color: #FFD54F;
-  font-size: 1.1em;
-  color: #333;
-  padding: 1em;
-  margin-bottom: 1em;
-  text-align: center;
-  border: 2px solid #FFCA28;
-  border-radius: 10px;
-">
-  <b>Update:</b> I’m looking for post-PhD opportunities!
-  If you need an engineer skilled in OS internals, compiler instrumentation, hardware/software interplay, and advanced systems security, please <a href="mailto:bjohannesmeyer@gmail.com">get in touch</a>!
-</div>
-
 <img class="profile-picture" src="assets/headshot.jpg">
 
-Hi, I'm Brian! I’m a PhD candidate at [VU Amsterdam](https://vu.nl/en), fascinated by all things systems security. I enjoy discovering and mitigating software weaknesses before attackers can exploit them.
+Hi, I'm Brian! I’m a Software Security Engineer at [Qualcomm](https://www.qualcomm.com/). I enjoy discovering and mitigating software weaknesses before attackers can exploit them.
 
 ---
 
